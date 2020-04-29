@@ -1,0 +1,6 @@
+## Interface: 80300
+## Title: EnemyTracker
+## Version: 0.0.1
+## Notes: EnemyTracker helps you manage your foes.
+
+EnemyTracker.lua
